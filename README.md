@@ -52,6 +52,11 @@ Maka hasilnya seperti ini.
 
 ![Tugas  praktikum2](https://user-images.githubusercontent.com/92651803/141371950-22153e39-4a1a-4a16-9e32-d7b4c54ccc89.png)
 
+Dan ini Flowchartnya.
+
+![Screenshot (50)](https://user-images.githubusercontent.com/92651803/141375647-e5cf6337-b4a0-49cc-bdf6-65c6743068cb.png)
+
+
 Sekian Tugas Lab2
 
 
